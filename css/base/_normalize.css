@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: inherit;
+}
+
+.boby {
+  font-family: var(--boby-font);
+}
+
+.conteiner {
+    width: 1200px;
+    margin: 0 auto;
+}
